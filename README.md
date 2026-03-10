@@ -72,7 +72,8 @@ Python | Scikit-learn
 | Area | Tools |
 |---|---|
 | LLMs & RAG | LlamaIndex · LangChain · LangGraph · ChromaDB · Groq| 
-| ML & CV | PyTorch · YOLOv8 · Scikit-learn · MLOpsDataPandas · NumPy · Spark · Hadoop · Feature Engineering |
+| ML & CV | PyTorch · YOLOv8 · Scikit-learn · MLOps |
+| Data | Pandas · NumPy · Spark · Hadoop · Feature Engineering |
 | Cloud | AWS (EKS, VPC, NLB) · Docker · Kubernetes · Redis |
 | Languages | Python · SQL · Java · JavaScript · Flask |
 
