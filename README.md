@@ -18,7 +18,28 @@ An AI-powered assistant for London Stock Exchange investors, built on a RAG pipe
 
 LlamaIndex | RAG |LLMs| yfinance| Gradio |Python
 
- ### YouTube Video Summariser| Work in Progress
+ ### Fake News Detection| Work in Progress
+
+Fine-tuned DistilBERT for binary fake news classification. F1=X. Live demo accepts any headline
+
+PyTorch | DistilBERT(NLP) | Scikit-Learn | Hugging Face
+
+</details>
+
+<details>
+<summary>PROJECTS</summary>
+
+<details>
+<summary>A Financial Fraud Detection </summary>
+
+This project demonstrates a Real-Time Fraud Detection Engine built with XGBoost. It addresses the challenge of extreme class imbalance (0.17% fraud rate) using SMOTE (Synthetic Minority Over-sampling Technique).
+
+Python | XGBoost | Scikit-Learn | Streamlit - Hugging Face
+
+</details>
+ 
+<details>
+<summary>YouTube Video Summariser </summary>
 
 Transcription-to-summary pipeline for YouTube content.
 
@@ -27,9 +48,7 @@ Whisper| LLMs| Python
 </details>
 
 <details>
-<summary>PROJECTS</summary>
-
-<details>
+ 
 <summary>Food Recommendation System </summary>
 
 RAG-based recommendation engine using vector similarity search and semantic retrieval with metadata filtering.
