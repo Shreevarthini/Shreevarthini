@@ -24,23 +24,27 @@ agentic-ai | mcp | llm-agents | anomaly-detection | fastapi | cloud-run | ci-cd 
 <summary>PROJECTS</summary>
  
 <details>
-<summary>CURRENTLY BUILDING</summary>
 
-### Financial Investment Assistant | Msc Dissertation
+<summary>Financial Investment Assistant | Msc Dissertation </summary>
 
 An AI-powered assistant for London Stock Exchange investors, built on a RAG pipeline using LlamaIndex and real-time financial data. Designed with a white-box architecture — users see source data alongside AI reasoning, not just a black-box answer. Includes an ELI5 jargon layer and sentiment analysis on financial news.
 
 LlamaIndex | RAG |LLMs| yfinance| Gradio |Python
+
 </details>
+
 <details>
- ### Fake News Detection| Work in Progress
+
+<summary>Fake News Detection </summary>
 
 Fine-tuned DistilBERT for binary fake news classification. F1=X. Live demo accepts any headline
 
 PyTorch | DistilBERT(NLP) | Scikit-Learn | Hugging Face
 
 </details>
+
 <details>
+ 
 <summary>A Financial Fraud Detection </summary>
 
 This project demonstrates a Real-Time Fraud Detection Engine built with XGBoost. It addresses the challenge of extreme class imbalance (0.17% fraud rate) using SMOTE (Synthetic Minority Over-sampling Technique).
@@ -127,6 +131,7 @@ Walmart Global Tech India | Technical Services Engineer (2021–2024)
 
 
 **Get In Touch**
+
 I am actively looking for AI/ML Engineer roles in the UK.
 
 rvshreevarthini@gmail.com | https://www.linkedin.com/in/shreevarthini-r-v/
