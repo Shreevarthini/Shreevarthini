@@ -1,15 +1,29 @@
 ### Shreevarthini Rajalakshmi Venkatesh Kumar
 
-AI/ML Engineer — specialising in LLM applications, RAG systems, and production-ready AI pipelines.
+AI/ML Engineer - specialising in LLM applications, RAG systems, and production-ready AI pipelines.
 
 MSc Advanced Computer Science @ University of Leicester (First Class, in progress)
 
 Previously @ Walmart Global Tech · Based in the UK
 
-**Open to AI/ML Engineer roles in the UK — available from May 2026**
+**Open to AI/ML Engineer roles in the UK
 
 <details>
  
+<summary>CURRENTLY BUILDING</summary>
+
+### Anomaly Triage Agent
+
+Agentic AI system that detects data pipeline anomalies and auto-investigates root causes using Gemini + MCP tools - deployed on Cloud Run with CI/CD
+
+agentic-ai | mcp | llm-agents | anomaly-detection | fastapi | cloud-run | ci-cd | python | gemini-api
+
+</details>
+
+<details>
+<summary>PROJECTS</summary>
+ 
+<details>
 <summary>CURRENTLY BUILDING</summary>
 
 ### Financial Investment Assistant | Msc Dissertation
@@ -17,7 +31,8 @@ Previously @ Walmart Global Tech · Based in the UK
 An AI-powered assistant for London Stock Exchange investors, built on a RAG pipeline using LlamaIndex and real-time financial data. Designed with a white-box architecture — users see source data alongside AI reasoning, not just a black-box answer. Includes an ELI5 jargon layer and sentiment analysis on financial news.
 
 LlamaIndex | RAG |LLMs| yfinance| Gradio |Python
-
+</details>
+<details>
  ### Fake News Detection| Work in Progress
 
 Fine-tuned DistilBERT for binary fake news classification. F1=X. Live demo accepts any headline
@@ -25,10 +40,6 @@ Fine-tuned DistilBERT for binary fake news classification. F1=X. Live demo accep
 PyTorch | DistilBERT(NLP) | Scikit-Learn | Hugging Face
 
 </details>
-
-<details>
-<summary>PROJECTS</summary>
-
 <details>
 <summary>A Financial Fraud Detection </summary>
 
@@ -98,13 +109,24 @@ Python | Scikit-learn
 
 **Experience**
 Walmart Global Tech India | Technical Services Engineer (2021–2024)
-- Built Python tooling for anomaly detection and automated triage, reducing MTTR by 30%.
-- Engineered observability frameworks for 12+ enterprise-scale applications.
-- Led deep-stack analysis across 50+ major production incidents.
+-	Built and owned incident-metrics reporting pipelines using SQL and Excel (VLOOKUP, pivot tables) for weekly cross-team focus calls
+-	Identified patterns in recurring incidents that drove a 78% reduction in redundant issues through targeted, data-led remediation
+-	Ran daily SQL-based CRUD operations on production order datasets, triaging and resolving order anomalies prioritised by business severity
+-	Directly prevented data loss and wrong-order incidents across multiple retail verticals - including Bakery, Auto Care, Wireless, and Firearms
+-	Engineered a Python MLOps-style automation pipeline replacing manual diagnostic data retrieval with a structured, repeatable workflow
+-	Reduced MTTR (mean time to resolution) by 30%, enabling consistent, repeatable root-cause analysis at scale
+-	Worked across 50+ major production incidents
+-	Developed and owned end-to-end observability dashboards in Splunk and Grafana across 12+ enterprise applications
+-	Shifted monitoring posture from reactive to proactive anomaly detection
+-	Earned BRAVO and BADGIFY awards for engineering excellence and cross-functional collaboration
+-	Architected "Query Bot" - a high-concurrency self-service data access tool built with Python + Node.js
+-	Applied DevOps best practices: secure, audited, automated access to production datasets
+-	Eliminated a previously time-intensive manual data-retrieval process entirely (reduced to zero manual effort)
+-	Owned infrastructure migrations and automated certificate lifecycle management across large-scale environments, ensuring zero-downtime transitions
+-	Followed Agile sprint methodology and code review standards throughout
+
 
 **Get In Touch**
 I am actively looking for AI/ML Engineer roles in the UK.
 
-📧 rvshreevarthini@gmail.com
-
-💼 https://www.linkedin.com/in/shreevarthini-r-v/
+rvshreevarthini@gmail.com | https://www.linkedin.com/in/shreevarthini-r-v/
