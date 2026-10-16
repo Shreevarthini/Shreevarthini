@@ -2,7 +2,7 @@
 
 AI/ML Engineer - specialising in LLM applications, RAG systems, and production-ready AI pipelines.
 
-MSc Advanced Computer Science @ University of Leicester (First Class, in progress)
+MSc Advanced Computer Science @ University of Leicester (First Class with Distinction)
 
 Previously @ Walmart Global Tech · Based in the UK
 
